@@ -2,7 +2,7 @@
 
 ## Exercise 1
 
-1. Fork this repository
+1. DONT Fork this repository (it fucking sucks)
 2. Publish this repo to your GitHub account
 3. Verify that you can push and pull from the remote repository
 4. Create a new branch. Name it as you please
